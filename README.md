@@ -14,3 +14,6 @@ Settings: Testbench + Design = SystemVerilog/Verilog, simulator = Synopsys VCS /
 
 ## Results
 <img width="937" height="765" alt="image" src="https://github.com/user-attachments/assets/7eb0de83-4c74-4a39-b1db-4853f129f46c" />
+<img width="1867" height="917" alt="image" src="https://github.com/user-attachments/assets/e00b53f0-a77e-4bcb-921e-028dfc76ffe2" />
+<img width="1886" height="922" alt="image" src="https://github.com/user-attachments/assets/ce196cfa-3ab4-430b-85c1-f776c8e3811e" />
+
